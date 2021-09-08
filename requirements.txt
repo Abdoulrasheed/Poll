@@ -19,7 +19,7 @@ hyperlink==19.0.0
 idna==2.8
 incremental==17.5.0
 Markdown==3.1.1
-Pillow==6.2.1
+Pillow==8.3.2
 pycparser==2.19
 PyHamcrest==1.9.0
 python-http-client==3.2.1
